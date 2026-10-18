@@ -1,10 +1,10 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
-  "count": 1745,
+  "count": 1787,
   "screening": {
     "report": "tests/reports/asset-screening/hero-vehicle-mini-cooper-race-car.json",
-    "generatedAt": "2026-10-04T11:34:06.936Z"
+    "generatedAt": "2026-10-18T06:07:33.030Z"
   },
   "assets": [
     {
@@ -13370,6 +13370,682 @@
         "forest"
       ],
       "triangles": 80,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bench",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bench",
+      "path": "kenney/mini-skate/bench.glb",
+      "license": "CC0",
+      "tags": [
+        "bench",
+        "mini",
+        "skate"
+      ],
+      "triangles": 232,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:benches",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Benches",
+      "path": "kenney/mini-skate/benches.glb",
+      "license": "CC0",
+      "tags": [
+        "benches",
+        "mini",
+        "skate"
+      ],
+      "triangles": 348,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-corner-inner",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Corner Inner",
+      "path": "kenney/mini-skate/bowl-corner-inner.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "corner",
+        "inner",
+        "mini",
+        "skate"
+      ],
+      "triangles": 150,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-corner-inner-low",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Corner Inner Low",
+      "path": "kenney/mini-skate/bowl-corner-inner-low.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "corner",
+        "inner",
+        "low",
+        "mini",
+        "skate"
+      ],
+      "triangles": 126,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-corner-outer",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Corner Outer",
+      "path": "kenney/mini-skate/bowl-corner-outer.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "corner",
+        "outer",
+        "mini",
+        "skate"
+      ],
+      "triangles": 154,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-corner-outer-low",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Corner Outer Low",
+      "path": "kenney/mini-skate/bowl-corner-outer-low.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "corner",
+        "outer",
+        "low",
+        "mini",
+        "skate"
+      ],
+      "triangles": 126,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-platform",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Platform",
+      "path": "kenney/mini-skate/bowl-platform.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "platform",
+        "mini",
+        "skate"
+      ],
+      "triangles": 12,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-side",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Side",
+      "path": "kenney/mini-skate/bowl-side.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "side",
+        "mini",
+        "skate"
+      ],
+      "triangles": 84,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:bowl-side-low",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Bowl Side Low",
+      "path": "kenney/mini-skate/bowl-side-low.glb",
+      "license": "CC0",
+      "tags": [
+        "bowl",
+        "side",
+        "low",
+        "mini",
+        "skate"
+      ],
+      "triangles": 70,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:character-skate-boy",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Character Skate Boy",
+      "path": "kenney/mini-skate/character-skate-boy.glb",
+      "license": "CC0",
+      "tags": [
+        "character",
+        "skate",
+        "boy",
+        "mini"
+      ],
+      "triangles": 722,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:character-skate-girl",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Character Skate Girl",
+      "path": "kenney/mini-skate/character-skate-girl.glb",
+      "license": "CC0",
+      "tags": [
+        "character",
+        "skate",
+        "girl",
+        "mini"
+      ],
+      "triangles": 790,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:fence",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Fence",
+      "path": "kenney/mini-skate/fence.glb",
+      "license": "CC0",
+      "tags": [
+        "fence",
+        "mini",
+        "skate"
+      ],
+      "triangles": 184,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:floor-concrete",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Floor Concrete",
+      "path": "kenney/mini-skate/floor-concrete.glb",
+      "license": "CC0",
+      "tags": [
+        "floor",
+        "concrete",
+        "mini",
+        "skate"
+      ],
+      "triangles": 2,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:floor-wood",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Floor Wood",
+      "path": "kenney/mini-skate/floor-wood.glb",
+      "license": "CC0",
+      "tags": [
+        "floor",
+        "wood",
+        "mini",
+        "skate"
+      ],
+      "triangles": 32,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:half-pipe",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Half Pipe",
+      "path": "kenney/mini-skate/half-pipe.glb",
+      "license": "CC0",
+      "tags": [
+        "half",
+        "pipe",
+        "mini",
+        "skate"
+      ],
+      "triangles": 84,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:half-pipe-low",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Half Pipe Low",
+      "path": "kenney/mini-skate/half-pipe-low.glb",
+      "license": "CC0",
+      "tags": [
+        "half",
+        "pipe",
+        "low",
+        "mini",
+        "skate"
+      ],
+      "triangles": 70,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-box",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle Box",
+      "path": "kenney/mini-skate/obstacle-box.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "box",
+        "mini",
+        "skate"
+      ],
+      "triangles": 124,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-box-grind",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle Box Grind",
+      "path": "kenney/mini-skate/obstacle-box-grind.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "box",
+        "grind",
+        "mini",
+        "skate"
+      ],
+      "triangles": 88,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-corner",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle Corner",
+      "path": "kenney/mini-skate/obstacle-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "corner",
+        "mini",
+        "skate"
+      ],
+      "triangles": 212,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-end",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle End",
+      "path": "kenney/mini-skate/obstacle-end.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "end",
+        "mini",
+        "skate"
+      ],
+      "triangles": 108,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-middle",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle Middle",
+      "path": "kenney/mini-skate/obstacle-middle.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "middle",
+        "mini",
+        "skate"
+      ],
+      "triangles": 60,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:obstacle-middle-rail",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Obstacle Middle Rail",
+      "path": "kenney/mini-skate/obstacle-middle-rail.glb",
+      "license": "CC0",
+      "tags": [
+        "obstacle",
+        "middle",
+        "rail",
+        "mini",
+        "skate"
+      ],
+      "triangles": 210,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:pallet",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Pallet",
+      "path": "kenney/mini-skate/pallet.glb",
+      "license": "CC0",
+      "tags": [
+        "pallet",
+        "mini",
+        "skate"
+      ],
+      "triangles": 108,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:plank",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Plank",
+      "path": "kenney/mini-skate/plank.glb",
+      "license": "CC0",
+      "tags": [
+        "plank",
+        "mini",
+        "skate"
+      ],
+      "triangles": 64,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-curve",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail Curve",
+      "path": "kenney/mini-skate/rail-curve.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "curve",
+        "mini",
+        "skate"
+      ],
+      "triangles": 106,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-high",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail High",
+      "path": "kenney/mini-skate/rail-high.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "high",
+        "mini",
+        "skate"
+      ],
+      "triangles": 150,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-high-curve",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail High Curve",
+      "path": "kenney/mini-skate/rail-high-curve.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "high",
+        "curve",
+        "mini",
+        "skate"
+      ],
+      "triangles": 106,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-low",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail Low",
+      "path": "kenney/mini-skate/rail-low.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "low",
+        "mini",
+        "skate"
+      ],
+      "triangles": 150,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-low-end",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail Low End",
+      "path": "kenney/mini-skate/rail-low-end.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "low",
+        "end",
+        "mini",
+        "skate"
+      ],
+      "triangles": 98,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-slope",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail Slope",
+      "path": "kenney/mini-skate/rail-slope.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "slope",
+        "mini",
+        "skate"
+      ],
+      "triangles": 150,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:rail-slope-smooth",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Rail Slope Smooth",
+      "path": "kenney/mini-skate/rail-slope-smooth.glb",
+      "license": "CC0",
+      "tags": [
+        "rail",
+        "slope",
+        "smooth",
+        "mini",
+        "skate"
+      ],
+      "triangles": 286,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:ramp",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Ramp",
+      "path": "kenney/mini-skate/ramp.glb",
+      "license": "CC0",
+      "tags": [
+        "ramp",
+        "mini",
+        "skate"
+      ],
+      "triangles": 104,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:ramp-rail",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Ramp Rail",
+      "path": "kenney/mini-skate/ramp-rail.glb",
+      "license": "CC0",
+      "tags": [
+        "ramp",
+        "rail",
+        "mini",
+        "skate"
+      ],
+      "triangles": 240,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:scooter",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Scooter",
+      "path": "kenney/mini-skate/scooter.glb",
+      "license": "CC0",
+      "tags": [
+        "scooter",
+        "mini",
+        "skate"
+      ],
+      "triangles": 410,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:skateboard",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Skateboard",
+      "path": "kenney/mini-skate/skateboard.glb",
+      "license": "CC0",
+      "tags": [
+        "skateboard",
+        "mini",
+        "skate"
+      ],
+      "triangles": 432,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:slope-smooth",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Slope Smooth",
+      "path": "kenney/mini-skate/slope-smooth.glb",
+      "license": "CC0",
+      "tags": [
+        "slope",
+        "smooth",
+        "mini",
+        "skate"
+      ],
+      "triangles": 228,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:steps",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Steps",
+      "path": "kenney/mini-skate/steps.glb",
+      "license": "CC0",
+      "tags": [
+        "steps",
+        "mini",
+        "skate"
+      ],
+      "triangles": 88,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:steps-rail",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Steps Rail",
+      "path": "kenney/mini-skate/steps-rail.glb",
+      "license": "CC0",
+      "tags": [
+        "steps",
+        "rail",
+        "mini",
+        "skate"
+      ],
+      "triangles": 224,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:structure-platform",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Structure Platform",
+      "path": "kenney/mini-skate/structure-platform.glb",
+      "license": "CC0",
+      "tags": [
+        "structure",
+        "platform",
+        "mini",
+        "skate"
+      ],
+      "triangles": 156,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:structure-wood",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Structure Wood",
+      "path": "kenney/mini-skate/structure-wood.glb",
+      "license": "CC0",
+      "tags": [
+        "structure",
+        "wood",
+        "mini",
+        "skate"
+      ],
+      "triangles": 248,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:structure-wood-platform",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Structure Wood Platform",
+      "path": "kenney/mini-skate/structure-wood-platform.glb",
+      "license": "CC0",
+      "tags": [
+        "structure",
+        "wood",
+        "platform",
+        "mini",
+        "skate"
+      ],
+      "triangles": 260,
+      "qualityScore": 0.2
+    },
+    {
+      "id": "kenney:mini-skate:vehicle",
+      "source": "kenney",
+      "pack": "mini-skate",
+      "title": "Vehicle",
+      "path": "kenney/mini-skate/vehicle.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "mini",
+        "skate"
+      ],
+      "triangles": 908,
       "qualityScore": 0.2
     },
     {
